@@ -66,7 +66,7 @@ A step by step series of examples that tell you how to get a development env run
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [contributing.md](contributing.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Authors
 
