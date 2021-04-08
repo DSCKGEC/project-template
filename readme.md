@@ -39,7 +39,7 @@ The project currently does the following things.
 - Feature 2
 - Feature 3
 
-See below for our proposed schedule on next steps after Call for Code 2021 submission.
+See below for our future steps.
 
 - Feature 1
 - Feature 2
