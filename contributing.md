@@ -14,6 +14,32 @@ Contributing is also a great way to learn more about social coding on Github, ne
     - Good commit message: `updated contributors list in readme`
 - You **should not**, in any case, use resources or code snippets from sources that do not allow their public use.
 
+
+## Pull Requests Review Criteria
+
+- Please fill the **[PR Template]()** properly while making a Pull Request.
+
+- You must add your script into the respective **folders**.
+
+- Your work must be original, written by you not copied from other resources.
+- You must comment on your code or script where necessary.
+- Follow the proper [style guides](https://google.github.io/styleguide/) for your work.
+- For any queries or discussions, please feel free to drop a message.
+
+
+## Other points to remember while submitting your work:
+
+We want your work to be readable by others; therefore, we encourage you to note the following:
+
+- Please avoid creating new directories if at all possible. Try to fit your work into the existing directory structure you have created for your project. If you want to,
+please contact before doing so.
+- The files should be concise and clear about what the script is about and what it does.
+- It should be documented briefly enough to let readers understand. 
+- If you have modified/added code work, make sure that code works before submitting.
+- If you have modified/added documentation work, ensure your language is concise and contains no grammar errors.
+- Do not update the [README.md]() and [Contributing_Guidelines.md]().
+
+
 ## Team members
 
 You can view all of our team members on github [here](https://github.com/orgs/DSCKGEC/people)
