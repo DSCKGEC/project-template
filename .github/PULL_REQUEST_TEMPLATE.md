@@ -1,9 +1,4 @@
-## Related Issue 
-
-- Info about the related issue 
-
-- [ ] < Open Source Name > Participant 
-- [ ] Contributor
+## Linked Issue 
 
 Closes: #issue number that will be closed through this PR
 
