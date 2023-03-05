@@ -39,7 +39,7 @@ please contact before doing so.
 
 ## Team members
 
-You can view all of our team members on github [here](https://github.com/orgs/DSCKGEC/people)
+You can view all of our team members on github [here](https://github.com/orgs/DSCKGEC/people).
 
 ## Get in touch
 
